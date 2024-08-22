@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Amit Chougule</h1>
+<h1 align="center">Hello, I'm Amit Chougule !</h1>
 <h3 align="center">Leading researcher in Computer Vision and AI | Specializing in Medical Imaging and Autonomous Systems</h3>
 
 <!-- Comment 
