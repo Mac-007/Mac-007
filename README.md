@@ -30,7 +30,27 @@
     </a>
 </p>
 
+### Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/amit-chougule)  
+- [Instagram](https://instagram.com/_the_wolf_guy)  
+- [Email](mailto:amitchougule121@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmitChougule-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amit-chougule)
+[![Instagram](https://img.shields.io/badge/Instagram-_the_wolf_guy-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_the_wolf_guy)
+
+
 ### Technologies & Tools
+**Programming Languages:**  
+- [C](https://www.cprogramming.com/)  
+- [C++](https://www.w3schools.com/cpp/)  
+- [C#](https://www.w3schools.com/cs/)  
+- [Java](https://www.java.com/)  
+- [Python](https://www.python.org/)  
+- [Ruby](https://www.ruby-lang.org/en/)  
+- [Scala](https://www.scala-lang.org/)  
+- [SQL](https://www.microsoft.com/en-us/sql-server)
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,4 +60,8 @@
 **Frameworks & Libraries:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- PyTorch ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 
