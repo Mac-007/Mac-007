@@ -13,9 +13,9 @@
 
 - 📚 **Learn More About Me:**
   - Explore my projects and research contributions on my [Google Scholar Profile](https://scholar.google.com/citations?user=3b8V0D4AAAAJ&hl=en).
-  - Professional background and experiences via my [Resume](https://drive.google.com/file/d/1Au0vsE0zR41OjffvUtO5UNjmRsypmyFq/view?usp=sharing).
-  - A consolidated list of my published works can be found [List of Publications](https://drive.google.com/file/d/13dMs6MwVqIBQWXJEfxWpUkoGHDB3oCzg/view?usp=sharing)
-  - Learn more about my peer-review engagements and service to the research community [Reviewer Contributions](https://drive.google.com/file/d/1OU8x6M-MEq310dmZvTtyVcbv20MQ4SDc/view?usp=sharing)
+  - Professional background and experiences via my [Resume](https://drive.google.com/file/d/1Fee55jtnVHcwPJ6yZzlcOQEAsPRCd25Q/view?usp=sharing).
+  - A consolidated list of my published works can be found [List of Publications](https://drive.google.com/file/d/1-6kr-Yml8OyZb0Xdqyl1npLl5hVGQWqu/view?usp=sharing)
+  - Learn more about my peer-review engagements and service to the research community [Reviewer Contributions](https://drive.google.com/file/d/18sXZpdUiNcA0GFl9cyyC_tit7rAwybhF/view?usp=sharing)
 
 - 📫 **Get in Touch:**
   - Email: [amitchougule121@gmail.com](mailto:amitchougule121@gmail.com)
