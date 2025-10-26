@@ -20,23 +20,7 @@
 - 📫 **Get in Touch:**
   - Email: [amitchougule121@gmail.com](mailto:amitchougule121@gmail.com)
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/amit-chougule" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-chougule" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/_the_wolf_guy" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_wolf_guy" height="30" width="40" />
-    </a>
-</p>
-
 ### Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/amit-chougule)  
-- [Instagram](https://instagram.com/_the_wolf_guy)  
-- [Email](mailto:amitchougule121@gmail.com)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmitChougule-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amit-chougule)
 [![Instagram](https://img.shields.io/badge/Instagram-_the_wolf_guy-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_the_wolf_guy)
 
